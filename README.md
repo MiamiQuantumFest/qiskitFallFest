@@ -17,7 +17,7 @@ To make your workshop experience as smooth as possible, we'll be using Google Co
 
 ### **Here's what to do:**
 - Access Google Colab: https://colab.research.google.com/ and you'll be all set to run code from your browser.
-- Create Your Free IBMid: https://www.ibm.com/mysupport/s/my-cases will be your gateway to hands-on quantum programming, and the best part? It's free!
+- Create Your Free IBMid: https://quantum.ibm.com/ will be your gateway to hands-on quantum programming, and the best part? It's free!
 
 ### **No Quantum Experience? No Problem!**
 
