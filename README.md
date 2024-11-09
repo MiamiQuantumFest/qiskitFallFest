@@ -16,7 +16,7 @@ This repository provides a hands-on approach to learning quantum computing. To r
 To make your workshop experience as smooth as possible, we'll be using Google Colab—a powerful, browser-based platform. No installations are needed, so whether you're a beginner or experienced, you can feel confident about joining. All you need is access to Google Colab and an IBMid, which will allow you to run quantum programs directly on IBM's actual quantum computers!
 
 ### **Here's what to do:**
-- Access Google Colab: https://colab.google/ and you'll be all set to run code from your browser.
+- Access Google Colab: https://colab.research.google.com/ and you'll be all set to run code from your browser.
 - Create Your Free IBMid: https://www.ibm.com/mysupport/s/my-cases will be your gateway to hands-on quantum programming, and the best part? It's free!
 
 ### **No Quantum Experience? No Problem!**
