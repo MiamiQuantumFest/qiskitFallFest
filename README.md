@@ -122,6 +122,10 @@ This notebook explores circuit optimization through Qiskit's transpiler, prepari
 - [Qiskit Summer School Materials](https://qiskit.org/events/summer-school/)
 - [Quantum Computing Exercises](https://quantum-computing.ibm.com/lab/docs/iql/first-circuit)
 
+### **Videos**
+
+- [Understanding Quantum Information & Computation Series](https://www.youtube.com/watch?v=42OiBzfdE2o&list=PLOFEBzvs-VvqKKMXX4vbi4EB1uaErFMSO)
+
 ##### **Summary:**
 - **Optimization**: Use the transpiler to reduce gate depth and circuit size.
 - **Comparison**: Test the impact of different transpiler settings.
